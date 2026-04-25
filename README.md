@@ -17,15 +17,15 @@ and interactive dashboard development.
 
 ## Project Structure
 EHR_Portfolio_Dataset.xlsx
-├── README (dataset overview and analysis questions)
-├── 01_Encounters (demographics, vitals, diagnoses, medications)
-├── 02_Lab_Results (LOINC-coded lab results per encounter)
-├── 03_ICD11_Reference (diagnosis code lookup table)
-├── 04_LOINC_Reference (lab and vital sign code lookup table)
-├── 05_Data_Dictionary (field definitions and allowable values)
-├── Clean_Dataset (cleaned and transformed data)
-├── PT1–PT4 (PivotTables per analysis question)
-└── Dashboard (interactive dashboard with slicers and timeline)
+- README (dataset overview and analysis questions)
+- 01_Encounters (demographics, vitals, diagnoses, medications)
+- 02_Lab_Results (LOINC-coded lab results per encounter)
+- 03_ICD11_Reference (diagnosis code lookup table)
+- 04_LOINC_Reference (lab and vital sign code lookup table)
+- 05_Data_Dictionary (field definitions and allowable values)
+- Clean_Dataset (cleaned and transformed data)
+- PT1–PT4 (PivotTables per analysis question)
+- Dashboard (interactive dashboard with slicers and timeline)
 
 ## Data Cleaning Steps
 - Identified and handled missing blood pressure values
@@ -70,6 +70,9 @@ Q5 — Gender disparity in LDL management (<3 mmol/L target)
 - Lab tests not always clinically matched to diagnoses
 - HbA1c and LDL data available for subset of patients only
 - Polypharmacy analysis limited by random medication assignment
+
+## Project Files
+- <a href="https://github.com/mugabepatricia/EHR_Clinical_Performance_Dashboard-Kenya_2023-2025_Excel/blob/main/EHR%20Raw%20Dataset.xlsx">Raw Dataset</a>
 
 ## Author
 Patricia Mugabe
