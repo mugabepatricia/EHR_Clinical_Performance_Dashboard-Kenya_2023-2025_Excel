@@ -38,9 +38,9 @@ EHR_Portfolio_Dataset.xlsx
 - Pulled lab results into encounters table using multi-criteria XLOOKUP
 
 ## Analysis Questions Answered
-— What proportion of hypertensive patients achieve BP <140/90 at follow-up?
-— Which diagnosis groups have the highest abnormal lab rates?
-— How does encounter type distribute across counties?
+- What proportion of hypertensive patients achieve BP <140/90 at follow-up?
+- Which diagnosis groups have the highest abnormal lab rates?
+- How does encounter type distribute across counties?
 - How many patients attended the different facilities
 - Which counties had more patients
 
