@@ -38,11 +38,11 @@ EHR_Portfolio_Dataset.xlsx
 - Pulled lab results into encounters table using multi-criteria XLOOKUP
 
 ## Analysis Questions Answered
-Q1 — What proportion of hypertensive patients achieve BP <140/90 at follow-up?
-Q2 — Is BMI ≥30 associated with HbA1c ≥7% in T2DM patients?
-Q3 — Which diagnosis groups have the highest abnormal lab rates?
-Q4 — How does encounter type distribute across counties?
-Q5 — Gender disparity in LDL management (<3 mmol/L target)
+— What proportion of hypertensive patients achieve BP <140/90 at follow-up?
+— Which diagnosis groups have the highest abnormal lab rates?
+— How does encounter type distribute across counties?
+- How many patients attended the different facilities
+- Which counties had more patients
 
 ## Key Findings
 - Overall BP control rate: 27.89% — below WHO 50% benchmark
