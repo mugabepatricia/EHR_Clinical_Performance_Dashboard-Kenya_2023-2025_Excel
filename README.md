@@ -75,6 +75,7 @@ Q5 — Gender disparity in LDL management (<3 mmol/L target)
 - <a href="https://github.com/mugabepatricia/EHR_Clinical_Performance_Dashboard-Kenya_2023-2025_Excel/blob/main/EHR%20Raw%20Dataset.xlsx">Raw Dataset</a>
 - <a href="https://github.com/mugabepatricia/EHR_Clinical_Performance_Dashboard-Kenya_2023-2025_Excel/blob/main/EHR%20Dashboard.png">Dashboard Preview</a>
 - <a href="https://github.com/mugabepatricia/EHR_Clinical_Performance_Dashboard-Kenya_2023-2025_Excel/blob/main/EHR%20DATA%20ANALYSIS%20Report.pdf">EHR analysis report</a>
+- <a href="https://github.com/mugabepatricia/EHR_Clinical_Performance_Dashboard-Kenya_2023-2025_Excel/blob/main/EHR%20Excel%20Project.xlsx">Complete Analysis Project</a>
 
 ## Author
 Patricia Mugabe
